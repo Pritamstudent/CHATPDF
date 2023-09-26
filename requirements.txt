@@ -1,4 +1,7 @@
-dotenv
-PyPDF2
-os
+streamlit==0.90.0
+python-dotenv==0.18.0
+PyPDF2==1.26.0
+# langchain==0.1.0  # Please replace with the actual version if available
+numpy==1.21.0  # Add any additional dependencies if needed
+openai==0.27.0  # Add any additional dependencies if needed
 langchain==0.0.147
