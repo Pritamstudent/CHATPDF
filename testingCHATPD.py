@@ -12,7 +12,7 @@ from langchain.llms import HuggingFaceHub
 import os
 import langchain
 langchain.verbose = False
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = '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'
 import openai
 openai.api_key = os.environ["OPENAI_API_KEY"] 
 def get_pdf_text(pdf_docs):
